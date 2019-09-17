@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cbs/static/css/main.c84a955c.chunk.css",
-    "main.js": "/cbs/static/js/main.84718a28.chunk.js",
-    "main.js.map": "/cbs/static/js/main.84718a28.chunk.js.map",
-    "runtime~main.js": "/cbs/static/js/runtime~main.85b608e1.js",
-    "runtime~main.js.map": "/cbs/static/js/runtime~main.85b608e1.js.map",
-    "static/js/2.fca22e59.chunk.js": "/cbs/static/js/2.fca22e59.chunk.js",
-    "static/js/2.fca22e59.chunk.js.map": "/cbs/static/js/2.fca22e59.chunk.js.map",
-    "index.html": "/cbs/index.html",
-    "precache-manifest.5c3b3279030d2c91d0360495bd75c212.js": "/cbs/precache-manifest.5c3b3279030d2c91d0360495bd75c212.js",
-    "service-worker.js": "/cbs/service-worker.js",
-    "static/css/main.c84a955c.chunk.css.map": "/cbs/static/css/main.c84a955c.chunk.css.map",
-    "static/media/design1.png": "/cbs/static/media/design1.0a6e3db4.png",
-    "static/media/design2.png": "/cbs/static/media/design2.54c4f7ba.png"
+    "main.css": "/static/css/main.c84a955c.chunk.css",
+    "main.js": "/static/js/main.99020d78.chunk.js",
+    "main.js.map": "/static/js/main.99020d78.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.260a9e32.js",
+    "runtime~main.js.map": "/static/js/runtime~main.260a9e32.js.map",
+    "static/js/2.fca22e59.chunk.js": "/static/js/2.fca22e59.chunk.js",
+    "static/js/2.fca22e59.chunk.js.map": "/static/js/2.fca22e59.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bdea89dbbb282a18da495b0f5e7e7777.js": "/precache-manifest.bdea89dbbb282a18da495b0f5e7e7777.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c84a955c.chunk.css.map": "/static/css/main.c84a955c.chunk.css.map",
+    "static/media/design1.png": "/static/media/design1.0a6e3db4.png",
+    "static/media/design2.png": "/static/media/design2.54c4f7ba.png"
   }
 }
